@@ -1,2 +1,2 @@
 # test_git
-hello my friends4
+hello my friends42
